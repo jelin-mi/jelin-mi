@@ -26,9 +26,9 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img src="https://github-readme-stats.vercel.app/api?username=jelin-mi&show_icons=true&theme=algolia" style="height: 175px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jelin-mi&show_icons=true&theme=algolia" style="width: 350px;">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelin-mi&show_icons=true&theme=algolia&langs_count=8&layout=compact&hide_title=false" style="height: 175px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelin-mi&show_icons=true&theme=algolia&langs_count=8&layout=compact&hide_title=false" style="width: 350px;" />
   </a>
 </div>
